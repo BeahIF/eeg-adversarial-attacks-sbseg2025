@@ -1,0 +1,9 @@
+moabb==1.2.0
+braindecode==0.7
+numpy==1.24.4
+scipy==1.11.4
+pandas==1.5.3
+scikit-learn
+torch
+mne
+foolbox>=3.0.0
